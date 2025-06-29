@@ -3,3 +3,5 @@
 - https://www.coursera.org/learn/data-manipulation
 - https://www.coursera.org/learn/serverless-data-processing-with-dataflow-foundations-es
 - https://www.coursera.org/learn/serverless-data-processing-with-dataflow-foundations
+- https://www.coursera.org/learn/linear-algebra-python-intro
+- 
