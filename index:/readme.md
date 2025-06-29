@@ -6,3 +6,5 @@
 - https://www.coursera.org/learn/linear-algebra-python-intro
 - https://www.coursera.org/learn/hadoop
 - https://www.coursera.org/projects/googlecloud-dataproc-qwik-start-command-line-y2ct2
+- https://www.coursera.org/projects/googlecloud-dataproc-qwik-start-console-nlm0w
+- 
