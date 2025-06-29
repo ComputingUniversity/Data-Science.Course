@@ -1,3 +1,5 @@
 - https://www.coursera.org/learn/open-source-tools-for-data-science
 - https://www.coursera.org/learn/machine-learning-big-data-apache-spark
 - https://www.coursera.org/learn/data-manipulation
+- https://www.coursera.org/learn/serverless-data-processing-with-dataflow-foundations-es
+- https://www.coursera.org/learn/serverless-data-processing-with-dataflow-foundations
